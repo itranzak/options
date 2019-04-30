@@ -1,0 +1,15 @@
+.table-tan, .table-tan>td, .table-tan>th {background-color: tan;}
+.table-teal, .table-teal>td, .table-teal>th {background-color: teal; color: white}
+.table-thistle, .table-thistle>td, .table-thistle>th {background-color: thistle;}
+.table-lightblue, .table-lightblue>td, .table-lightblue>th {background-color: lightblue;}
+.table-lightcoral, .table-lightcoral>td, .table-lightcoral>th {background-color: lightcoral;}
+.table-lightcyan, .table-lightcyan>td, .table-lightcyan>th {background-color: lightcyan;}
+.table-lightgray, .table-lightgray>td, .table-lightgray>th {background-color: lightgray;}
+.table-lightgoldenrodyellow, .table-lightgoldenrodyellow>td, .table-lightgoldenrodyellow>th {background-color: lightgoldenrodyellow;}
+.table-lightgrey, .table-lightgrey>td, .table-lightgrey>th {background-color: lightgrey;}
+.table-lightskyblue, .table-lightskyblue>td, .table-lightskyblue>th {background-color: lightskyblue;}
+.table-lightsteelblue, .table-lightsteelblue>td, .table-lightsteelblue>th {background-color: lightsteelblue; color: darkblue;}
+.table-lightyellow, .table-lightyellow>td, .table-lightyellow>th {background-color: lightyellow;}
+.table-cadetblue, .table-cadetblue>td, .table-cadetblue>th {background-color: cadetblue; color: white;}
+.table-beige, .table-beige>td, .table-beige>th {background-color: beige;}
+.table-rosybrown, .table-rosybrown>td, .table-rosybrown>th {background-color: rosybrown; color: darkred;}
